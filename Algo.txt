@@ -1,0 +1,8 @@
+1. Find pizza restaurant
+2. Order pizza and other items if wanted
+3. Pay for pizza purchase
+4. Receive pizza purchase 
+5. Check for correct order 
+6. Wash hands BEFORE eating and after checking purchase
+7. Eat pizza and items 
+8. Dispose of pizza box and other items in their appropriate place
